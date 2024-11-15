@@ -1,0 +1,6 @@
+credentials_file = "C:/Users/91885/Downloads/salman-gcp-831547-15b042595dea.json"
+project_id       = "salman-gcp-831547"
+region           = "us-central1"
+bucket_name      = "test-bucket-831548"
+bucket_location  = "US"
+storage_class    = "STANDARD" 
