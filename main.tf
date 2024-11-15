@@ -13,7 +13,7 @@ resource "google_storage_bucket" "my_bucket" {
 }
 
 variable "credentials_file" {
-  description = "Path to the service account JSON key file" 
+  description = "Path to the service account JSON key file"  
   type        = string
 }
 
